@@ -4,6 +4,11 @@
 ## Advanced Machine Learning: topics on deep probabilistic models
 ## Universidad Tecnológica de Pereira, Pereira, Colombia 
 
+Mauricio A. Álvarez PhD,
+
+TA: 
+Cristian D. Guarnizo PhD and Hernan F. García PhD (c)
+
 May 20 – June 14, 2019
 
 The course will run from:
