@@ -7,7 +7,7 @@
 Mauricio A. Álvarez PhD,
 
 TA: 
-Cristian D. Guarnizo PhD and Hernan F. García PhD (c)
+Cristian Guarnizo PhD and Hernan F. García PhD (c)
 
 May 20 – June 14, 2019
 
