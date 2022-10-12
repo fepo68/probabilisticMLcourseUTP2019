@@ -7,6 +7,7 @@
 Cristian Guarnizo PhD and Hernan F. García PhD
 
 ## Agenda
+<!---
 ## Weeks. Fundamentals of Deep Probabilistic Models
 Introduction. Deep models. Bayesian inference.
 ## May 27 – June 8. Bayesian Neural Networks
@@ -18,6 +19,7 @@ processes, extensions.
 ## June 13-14. Variational Autoencoders
 Autoencoders, variational autoencoders, normalizing flows, re-parameterization
 tricks, extensions.
+--->
 
 | Semana  | Tema |  Presentaciones - Notebooks |
 | :----: |  :---: |:----- | 
